@@ -1,16 +1,5 @@
-syntax keyword javascriptDOMEventCons AnimationEvent AudioProcessingEvent BeforeInputEvent
-syntax keyword javascriptDOMEventCons BeforeUnloadEvent BlobEvent ClipboardEvent CloseEvent
-syntax keyword javascriptDOMEventCons CompositionEvent CSSFontFaceLoadEvent CustomEvent
-syntax keyword javascriptDOMEventCons DeviceLightEvent DeviceMotionEvent DeviceOrientationEvent
-syntax keyword javascriptDOMEventCons DeviceProximityEvent DOMTransactionEvent DragEvent
-syntax keyword javascriptDOMEventCons EditingBeforeInputEvent ErrorEvent FocusEvent
-syntax keyword javascriptDOMEventCons GamepadEvent HashChangeEvent IDBVersionChangeEvent
-syntax keyword javascriptDOMEventCons KeyboardEvent MediaStreamEvent MessageEvent
-syntax keyword javascriptDOMEventCons MouseEvent MutationEvent OfflineAudioCompletionEvent
-syntax keyword javascriptDOMEventCons PageTransitionEvent PointerEvent PopStateEvent
-syntax keyword javascriptDOMEventCons ProgressEvent RelatedEvent RTCPeerConnectionIceEvent
-syntax keyword javascriptDOMEventCons SensorEvent StorageEvent SVGEvent SVGZoomEvent
-syntax keyword javascriptDOMEventCons TimeEvent TouchEvent TrackEvent TransitionEvent
-syntax keyword javascriptDOMEventCons UIEvent UserProximityEvent WheelEvent
-if exists("did_javascript_hilink") | HiLink javascriptDOMEventCons Structure
-endif
+{ [Error: ENOENT, no such file or directory 'dom-event.yml']
+  errno: -2,
+  code: 'ENOENT',
+  path: 'dom-event.yml',
+  syscall: 'open' }
