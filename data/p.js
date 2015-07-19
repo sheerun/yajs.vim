@@ -48,6 +48,10 @@ try {
     contains = false;
     statics = [];
 
+    if(! /Global|Cons$/.test(group) ) {
+      continue;
+    }
+
     if (/Global|Cons$/.test(group) || /BOMWindow(Prop|Method)/.test(group) || /BOM$/.test(group)) {
         contained = false;
     }
