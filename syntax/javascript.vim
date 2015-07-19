@@ -227,25 +227,8 @@ runtime syntax/yajs/es6-map.vim
 runtime syntax/yajs/es6-set.vim
 runtime syntax/yajs/es6-proxy.vim
 runtime syntax/yajs/es6-promise.vim
-runtime syntax/yajs/ecma-402.vim
 runtime syntax/yajs/node.vim
 runtime syntax/yajs/web.vim
-runtime syntax/yajs/web-window.vim
-runtime syntax/yajs/web-navigator.vim
-runtime syntax/yajs/web-location.vim
-runtime syntax/yajs/web-history.vim
-runtime syntax/yajs/web-console.vim
-runtime syntax/yajs/web-xhr.vim
-runtime syntax/yajs/web-blob.vim
-runtime syntax/yajs/web-crypto.vim
-runtime syntax/yajs/web-fetch.vim
-runtime syntax/yajs/web-service-worker.vim
-runtime syntax/yajs/dom-node.vim
-runtime syntax/yajs/dom-elem.vim
-runtime syntax/yajs/dom-document.vim
-runtime syntax/yajs/dom-event.vim
-runtime syntax/yajs/dom-storage.vim
-runtime syntax/yajs/css.vim
 
 let javascript_props = 1
 
